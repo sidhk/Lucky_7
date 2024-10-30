@@ -61,3 +61,7 @@ A basic container style for a centered and visually appealing game interface.
 5. Click **Continue Playing** to place another bet without resetting the balance.
 
 Enjoy the game!
+
+## Screenshot
+
+![](images/screenshot.png)
